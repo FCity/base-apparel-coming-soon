@@ -6,6 +6,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,6 +23,16 @@ Users should be able to:
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+### Screenshots
+
+Desktop:
+
+![Desktop view](./images/screenshot-desktop.jpg?raw=true)
+
+Mobile:
+
+![Mobile view](./images/screenshot-mobile.jpg?raw=true)
 
 ### Links
 
